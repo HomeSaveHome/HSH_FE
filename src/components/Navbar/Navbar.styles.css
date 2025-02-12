@@ -1,0 +1,28 @@
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.nav-links {
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-links a {
+    font-size: 23px;
+    font-weight: 400;
+    text-decoration: none;
+    color: black;
+}
+
+.user-icon {
+    cursor: pointer;
+}
