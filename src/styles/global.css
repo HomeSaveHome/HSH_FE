@@ -11,7 +11,7 @@ body {
     color: black;
 }
 
-@font-face {
+/* @font-face {
     font-family: "NotoSansKR";
     src: url("/fonts/NotoSansKR-Thin.ttf") format("truetype");
     font-weight: 100;
@@ -23,7 +23,7 @@ body {
     src: url("/fonts/NotoSansKR-ExtraLight.ttf") format("truetype");
     font-weight: 200;
     font-style: normal;
-}
+} */
 
 @font-face {
     font-family: "NotoSansKR";
@@ -60,7 +60,7 @@ body {
     font-style: normal;
 }
 
-@font-face {
+/* @font-face {
     font-family: "NotoSansKR";
     src: url("/fonts/NotoSansKR-ExtraBold.ttf") format("truetype");
     font-weight: 800;
@@ -72,4 +72,4 @@ body {
     src: url("/fonts/NotoSansKR-Black.ttf") format("truetype");
     font-weight: 900;
     font-style: normal;
-}
+} */
